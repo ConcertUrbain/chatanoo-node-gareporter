@@ -1,0 +1,16 @@
+{
+  "name": "ga_reporter",
+  "version": "0.0.1",
+  "description": "GA reporter for Chatanoo",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Mathieu Desvé",
+  "license": "BSD",
+  "dependencies": {
+    "socket.io-client": "~0.9.16",
+    "universal-analytics": "~0.3.0"
+  }
+}
